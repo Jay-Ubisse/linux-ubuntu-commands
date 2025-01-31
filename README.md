@@ -115,4 +115,4 @@
 
 ---
 
-Produced with ❤️ por [Jay-Ubisse](https://github.com/Jay-Ubisse/).
+Produced with ❤️ by [Jay-Ubisse](https://github.com/Jay-Ubisse/).
