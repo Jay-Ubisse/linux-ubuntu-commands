@@ -113,3 +113,6 @@
 | `unzip archive.zip` | Extracts a zip archive. |
 
 
+---
+
+Produced with ❤️ por [Jay-Ubisse](https://github.com/Jay-Ubisse/).
